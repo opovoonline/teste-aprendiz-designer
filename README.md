@@ -1,4 +1,4 @@
-# Teste Prático Aprendiz Front-end O POVO
+# Teste Prático Aprendiz Designer O POVO
 Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Aprendiz Designer do Grupo de Comunicação O POVO.
 
 Você deve escolher um dos desafios abaixo:
